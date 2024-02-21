@@ -1,3 +1,4 @@
+/* HTML elements */
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -8,6 +9,13 @@ h1 {
     font-weight: bold;
     text-align: center;
 }
+
+span {
+color: blue;
+font-weight: bold;
+}
+
+/* Classes */
 
 .header{
     background-image: url("../images/pattern.webp");

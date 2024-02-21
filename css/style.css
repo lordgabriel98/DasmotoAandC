@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.header{
+    background-image: url("../images/pattern.webp");
+}
+
+.items{
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.item1 h3{
+    background-color: mediumspringgreen;
+}
+
+.item2 h3{
+    background-color: lightcoral;
+}
+
+.item3 h3{
+    background-color: skyblue;
+}
